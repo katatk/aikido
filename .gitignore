@@ -1,0 +1,13 @@
+__MACOSX/
+images/
+languages/
+lib/
+xml/
+.sass-cache
+CHANGELOG.md
+README.md
+*.png
+*.jpeg
+*.jpg
+*.svg
+
