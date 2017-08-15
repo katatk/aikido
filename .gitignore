@@ -1,0 +1,16 @@
+__MACOSX/
+images/
+languages/
+lib/
+xml/
+jquery.matchHeight.min.js
+responsive-menus.js
+responsive-menus.min.js
+.sass-cache
+CHANGELOG.md
+README.md
+*.png
+*.jpeg
+*.jpg
+*.svg
+
