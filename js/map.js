@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var markers = [
     {
         name: 'Hombo',
@@ -79,17 +78,3 @@ function initMap() {
     }
 
 }
-=======
-function initMap() {
-        var uluru = {lat: -25.363, lng: 131.044};
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 4,
-          center: uluru
-        });
-        var marker = new google.maps.Marker({
-          position: uluru,
-          map: map,
-          icon: 'http://localhost/aikido/wordpress/wp-content/themes/genesis-sample/images/marker-1.svg'
-        });
-      }
->>>>>>> 17dc11bc750f21047b32d4d3340f1ced4cd47d07
